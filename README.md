@@ -2,8 +2,8 @@
 
  This project Matplotlib_Challenge involves analyzing and visualizing data from a mouse drug trial study.  The analysis encompases generating key
  insights using Matplotlib, Pandas, and statistical tools.  This project also generates bar and pie charts, quartiles, outliers, boxplots, scatter
- plots, and linear regression to interpret the relationship between tumor volume, specific drug regimen, and mouse weight.  Also I added titles and 
- and a legend (for the lenear regression model) to the formating for all the generated to include a title.  
+ plots, and linear regression to interpret the relationship between tumor volume, specific drug regimen, and mouse weight.  Also, I added titles and 
+ and a legend (for the linear regression model) to the formating for all the generated data visualization.    
 
  References: 
  1.  Summary Statistics: 
